@@ -1,0 +1,10 @@
+﻿  mini撞球.cpp
+c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\mini撞球.cpp(36): warning C4005: “BAN_STARTSTATE_Y”: 宏重定义
+  c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\block.h(23): note: 参见“BAN_STARTSTATE_Y”的前一个定义
+c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\mini撞球.cpp(42): warning C4005: “BALL_SIZE”: 宏重定义
+  c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\block.h(29): note: 参见“BALL_SIZE”的前一个定义
+c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\mini撞球.cpp(46): warning C4005: “BLOCK_COLOR”: 宏重定义
+  c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\block.h(33): note: 参见“BLOCK_COLOR”的前一个定义
+c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\mini撞球.cpp(111): warning C4101: “hdc”: 未引用的局部变量
+c:\users\lenovo\desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\mini撞球小游戏\mini撞球.cpp(112): warning C4101: “ps”: 未引用的局部变量
+  mini撞球小游戏.vcxproj -> C:\Users\Lenovo\Desktop\17信安谌雯馨 201711123010（小学期作业）\mini撞球小游戏（17信安谌雯馨）\mini撞球小游戏\Debug\mini撞球小游戏.exe
